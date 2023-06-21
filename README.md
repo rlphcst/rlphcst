@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Ralph Costa</h1>
-<h3 align="center">A passionate full stack developer trained and tested by Academia de Código in their {OportoUNITY} campus</h3>
+<h1 align="center">Welcome fellow visitor 👋, My name is Ralph Costa</h1>
+<h3 align="center">I'm a passionate full stack developer trained and tested by @academia-de-codigo in their {OportoUNITY} campus</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rlphcst&label=Profile%20views&color=0e75b6&style=flat" alt="rlphcst" /> </p>
 
